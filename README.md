@@ -24,7 +24,7 @@ This repository is dedicated to developing, testing, and optimizing models for s
 
 ## Data
 
-The data used in this repository is exclusively from the [GeoLifeCLEF Kaggle competition](https://www.kaggle.com/competitions/geolifeclef-2022/data). Due to the size and licensing constraints of the dataset, it is not included in this repository. To access the data, please refer to the competition page and follow the provided instructions.
+The data used in this repository is exclusively from the [GeoLifeCLEF Kaggle competition](https://www.kaggle.com/competitions/geolifeclef-2024). Due to the size and licensing constraints of the dataset, it is not included in this repository. To access the data, please refer to the competition page and follow the provided instructions.
 
 ## How to Use
 
