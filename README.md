@@ -4,7 +4,7 @@ Welcome to the GitHub repository for my Master’s thesis on **Location-Based Sp
 
 ## Overview
 
-This repository is dedicated to developing, testing, and optimizing models for species presence prediction using location-based data. The dataset used in this research is derived entirely from the GeoLifeCLEF Kaggle competition, which provides a rich collection of geographical and environmental features for use in predictive modeling.
+This repository is dedicated to benchmarking models for species presence prediction using location-based data. The dataset used in this research is derived entirely from the GeoLifeCLEF Kaggle competition, which provides a rich collection of geographical and environmental features for use in predictive modeling.
 
 ## Repository Structure
 
