@@ -1,6 +1,6 @@
 # Location-Based Species Presence Prediction
 
-Welcome to the GitHub repository for my Master’s thesis on **Location-Based Species Presence Prediction**, inspired by the GeoLifeCLEF Kaggle competition. This repository contains the code and resources used in my research, aimed at predicting the presence of various species based on geographical and environmental data.
+Welcome to the GitHub repository for my Master’s thesis on **Location-Based Species Presence Prediction**, inspired by the GeoLifeCLEF Kaggle competition. This repository contains the code and resources used in my research, aimed at predicting the presence of various species based on geographical and environmental data. The thesis can be viewed [here](https://www.researchgate.net/publication/382463806_Location-based_Species_Presence_Prediction).
 
 ## Overview
 
